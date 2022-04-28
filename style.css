@@ -1,0 +1,15 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+nav li, nav ul {
+    display: inline;
+    margin: 10px;
+}
+.jumbotron {
+    height: 450px;
+    background-image: url(img/jumbo-bg.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
