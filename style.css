@@ -7,9 +7,23 @@ nav li, nav ul {
     display: inline;
     margin: 10px;
 }
-.jumbotron {
-    height: 450px;
-    background-image: url(img/jumbo-bg.png);
-    background-size: contain;
+.jumbotron_returnal{
+    width: 100%;
+    height: 675px;
+    background-color: #050505;
+    background-image: url("img/jumbo-bg.png");
+    background-position: center;
     background-repeat: no-repeat;
+    padding-bottom: 60px;
+    color: white;
+    margin-bottom: 20px;
+}
+#returnal-logo {
+    width: 60%;
+}
+
+#red-b {
+    border-radius: 100px;
+    border-color: red;
+    background-color: red;
 }
