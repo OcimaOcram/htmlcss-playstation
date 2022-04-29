@@ -27,3 +27,9 @@ nav li, nav ul {
     border-color: red;
     background-color: red;
 }
+.carosello {
+    width: 100%;
+}
+.w-100 {
+    width: 100%;
+}
