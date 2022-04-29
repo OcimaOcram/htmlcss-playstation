@@ -10,7 +10,6 @@ nav li, nav ul {
 .jumbotron_returnal{
     width: 100%;
     height: 675px;
-    background-color: #050505;
     background-image: url("img/jumbo-bg.png");
     background-position: center;
     background-repeat: no-repeat;
@@ -32,4 +31,16 @@ nav li, nav ul {
 }
 .w-100 {
     width: 100%;
+}
+.w-20 {
+    width: 20%;
+}
+.take-two {
+    width: 100%;
+    height: 675px;
+    background-image: url("img/it-takes-two-hero-banner-desktop.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    color: white;
 }
